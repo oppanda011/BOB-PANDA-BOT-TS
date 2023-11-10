@@ -2,6 +2,8 @@
 <p align="center"> 
 <u>♥️ ᴀɴ ᴡʜᴀᴛꜱᴀᴘᴘ ᴜꜱᴇʀ ʙᴏᴛ ʙʏ ʙᴏʙ ᴘᴀɴᴅᴀ ♥️</u>
 </p>
+<div align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&background=642D2DAE&center=true&vCenter=true&width=435&lines=The+is+Dark+Alfha+WhatsApp+Use+Bot;Created+by++Deep+Eagle" alt="Typing SVG" /></a>
 <p align="center">
 <img src="https://textpro.me/images/user_image/2023/11/654e5d2bf3e1c.jpg" width="300" height="300"/>
 </p>
