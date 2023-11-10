@@ -1,6 +1,6 @@
 
 <p align="center"> 
-<u>♥️ ᴀɴ ᴡʜᴀᴛsᴀᴘᴘ ᴜsᴇʀ ʙᴏᴛ ʙʏ ᴍʀ ɴɪᴍᴀ ♥️</u>
+<u>♥️ ᴀɴ ᴡʜᴀᴛꜱᴀᴘᴘ ᴜꜱᴇʀ ʙᴏᴛ ʙʏ ʙᴏʙ ᴘᴀɴᴅᴀ ♥️</u>
 </p>
 <p align="center">
 <img src="https://textpro.me/images/user_image/2023/11/654e5d2bf3e1c.jpg" width="300" height="300"/>
