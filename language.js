@@ -1,17 +1,12 @@
 /*
+  ____   ___  ____    ____   _    _   _ ____    _    
+ | __ ) / _ \| __ )  |  _ \ / \  | \ | |  _ \  / \   
+ |  _ \| | | |  _ \  | |_) / _ \ |  \| | | | |/ _ \  
+ | |_) | |_| | |_) | |  __/ ___ \| |\  | |_| / ___ \ 
+ |____/ \___/|____/  |_| /_/   \_\_| \_|____/_/   \_\
 
- █▀▀█ █░▒█ █▀▀▀ █▀▀▀ █▄░▒█       █▀▀▀ █░░░ ▀█▀ █▀▀▀█ █▀▀█
- █░▒█ █░▒█ █▀▀▀ █▀▀▀ █▒█▒█       █▀▀▀ █░░░ ░█░ ▀▀▀▄▄ █▄▄█
- ▀▀█▄ ▀▄▄▀ █▄▄▄ █▄▄▄ █░░▀█       █▄▄▄ █▄▄█ ▄█▄ █▄▄▄█ █░▒█
 
-
-
-WHATSAPP BOT BY MR NIMA ( DARK MAKER OFC )
-
-WHATSAPP - 94719574492
-SUPPORT GROUP - https://t.me/queenelisasupport
-YOUTUBE - http://youtube.com/MRNIMAOFC
-
+WHATSAPP BOT BY SAHAN & KANISHKA ( BOB-PANDA )
 
 ℹ️ SPECIAL INFORMATION ℹ️
 
@@ -19,13 +14,6 @@ YOUTUBE - http://youtube.com/MRNIMAOFC
 Queen Elisa Now Stable Version is 3.8.5 
 Do you have Any Problem About Bot Join Supoort Group
 
-Thanks For All Helpers
-@Thashi - For Voice
-@Thinura - For Helps
-@RaviduManoj - For Helps 
-@slrealtech - For Helps 
-
-@adiwajshing - For Web Api
 */
 
 
