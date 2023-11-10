@@ -26,7 +26,7 @@
 ### Please Give One Star ✨ & [follow for me notify my updates 💗](https://github.com/oppanda011)
 <b>Version -> 3.9.6</b>
 # 
-Queen elisa whatsapp bot is,
+BOB PANDA whatsapp bot is,
 
       BOB PANDA whatsapp bot is an easy to use whatsapp robot.   |  BOB PANDA whatsapp bot යනු ඔබට පහසුවෙන් බාවිතකර හැකි whatsapp robo වරයෙකි.
 
@@ -38,7 +38,7 @@ Queen elisa whatsapp bot is,
 
 # 
 
-* [`𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://replit.com/@MRNima/QUEEN-ELISA-MULTIAUTH-QR-SCANER)
+* [`𝗦𝗖𝗔𝗡 𝗤𝗥 𝗖𝗢𝗗𝗘`](https://replit.com/@SahanMadu/BOB-PANDA-MULTIAUTH-QR-SCANER)
 
       ℹ️ if there any error please infrom it support group.  | මෙහිදී යම් ගැටලුවක් ඇති උවහොත් සහය සමූහය වෙත සම්බන්ධ වන්න.
 # 
