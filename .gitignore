@@ -1,10 +1,12 @@
 /**
-░█▀▀█ ░█▀▀█ ─█▀▀█ ░█▀▀█ ─█▀▀█ ▀▀█▀▀ ░█─░█ ── ░█▀▄▀█ ░█▀▀▄ 
-░█▄▄█ ░█▄▄▀ ░█▄▄█ ░█▀▀▄ ░█▄▄█ ─░█── ░█▀▀█ ▀▀ ░█░█░█ ░█─░█ 
-░█─── ░█─░█ ░█─░█ ░█▄▄█ ░█─░█ ─░█── ░█─░█ ── ░█──░█ ░█▄▄▀
+  ____   ___  ____    ____   _    _   _ ____    _    
+ | __ ) / _ \| __ )  |  _ \ / \  | \ | |  _ \  / \   
+ |  _ \| | | |  _ \  | |_) / _ \ |  \| | | | |/ _ \  
+ | |_) | |_| | |_) | |  __/ ___ \| |\  | |_| / ___ \ 
+ |____/ \___/|____/  |_| /_/   \_\_| \_|____/_/   \_\
+                                                     
 
-
-* @project_name PRABATH-MD
+* @project_name BOB-PANDA-BOT-TS
 * @author Prabath Kumara <https://github.com/prabathLK>
 * @description The main hope of creating this bot is to take full advantage of the WhatsApp app and make its work easier
 * @link <https://github.com/prabathLK/PRABATH-MD>
