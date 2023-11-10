@@ -64,21 +64,7 @@ BOB PANDA whatsapp bot is,
  
   ##* [How To setup Github 1st step](https://youtu.be/DEpSpJRg4CA)
   
- * Deploy on Heroku Video ⇓
- <p align="left">
-<a href="https://youtu.be/IIl6etHMyoA"><img align="center" src="https://telegra.ph/file/30a48f9e9879189d2ef6d.jpg" alt="DEPLOY" height="110" width="200" /></a>
-   
-* Deploy on Railway Video ⇓
- <p align="left">
-<a href="https://youtu.be/j91TKKIXaMg"><img align="center" src="https://telegra.ph/file/517fafc4228129ff18510.jpg" alt="DEPLOY" height="110" width="200" /></a>
-   
-* Deploy on Replit Video ⇓
- <p align="left">
-<a href="[https://youtube.com/mrnimaofc](https://youtu.be/j91TKKIXaMg)"><img align="center" src="https://telegra.ph/file/909f2519b1dc65a338b29.jpg" alt="DEPLOY" height="110" width="200" /></a>
-   
-   
-   
-# 
+
 #
 + DEPLOY STEPS
 # 
@@ -102,8 +88,8 @@ pkg install nodejs -y
 pkg install ffmpeg -y 
 pkg install wget
 pkg install imagemagick -y
-git clone https://github.com/DarkMakerofc/Queen-Elisa-Md-V2
-cd Queen-Elisa-Md-V2
+git clone https://github.com/oppanda011/BOB-PANDA-BOT-TS
+cd oppanda011/BOB-PANDA-BOT-TS
 npm install
 npm start
 ```
@@ -123,7 +109,7 @@ npm start
 <summary>🌐 Support For Deploy </summary>
 <p>
 </details>
-THANAKS FOR USNING QUEEN ELISA 💃💖
+THANAKS FOR USNING BOB PANDA💃💖
 
 * [🧑‍💻 Join Queen Elisa Support Group 🧑‍💻](https://t.me/+Fc2vyKYBjFk3ZWZl)
 
